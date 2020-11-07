@@ -5,6 +5,14 @@
 
 VPN是一种网络协议，也是应用此协议的工具软件的统称，在中国大陆地区常用作科学上网。能实现类似目的的还有http代理、socks代理及与此相关的软件工具。
 
+|  VPN   | 特点  |
+|  ----  | ----  |
+| [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发，有免费试用 |
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=whatistizi) | 顶级VPN品牌之一 |
+| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=whatistizi) | 网速一流的VPN |
+| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=whatistizi) | 顶级品牌（需翻墙后购买）|
+| [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
+
 ### 为什么使用VPN？
 翻墙，也就是突破网络封锁，把你的时间花在有价值的事情上
 
